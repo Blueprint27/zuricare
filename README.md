@@ -1,27 +1,5 @@
-# ZuriCare
-
-## Overview
-ZuriCare is a child-focused AI learning and journaling app designed to support emotional growth, language learning, and parent visibility through a safe, guided experience.
-
-## Problem
-Many kid-facing apps focus on entertainment but do not combine emotional support, guided learning, and parent insight in one place.
-
-## Who It’s For
-- Children using the app for learning, reflection, and encouragement
-- Parents who want visibility into progress, mood patterns, and development
-
-## Current Status
-Finished / Working prototype
-
-## Core Features
-- Child journal entries
-- Parent dashboard
-- Mood check-ins
-- Spanish learning support
-- Guided encouragement and reflections
-- Progress tracking
-
 ## Screenshots / Demo
+
 ## Live Demo
 [Open ZuriCare Live](https://zuri-activity.replit.app)
 
@@ -37,7 +15,7 @@ Finished / Working prototype
 ### Parent Dashboard
 ![Parent Dashboard](70dab8f5-9105-4260-9e2a-c0d224f84d88.png)
 
-#### Tech Stack
+## Tech Stack
 - Frontend: HTML, CSS, JavaScript
 - Backend: JavaScript app logic
 - Database: Firebase Firestore (cloud sync for journal entries)
@@ -46,32 +24,20 @@ Finished / Working prototype
 - APIs: Browser speech features and app-integrated learning flows
 
 ## How It Works
-1. Child logs in and interacts with Zuri
+1. Child opens the app and interacts with Zuri
 2. Zuri guides learning, journaling, and mood reflection
-3. Entries and activity are logged
+3. Journal activity is saved to Firebase Firestore
 4. Parent dashboard shows progress and trends
 
-## My Role
-I designed the product vision, feature structure, workflow, and user experience, and built/customized the app’s learning flow, journaling experience, and parent-facing dashboard.
-
-## What’s Working Now
-- Journal flow
-- Parent dashboard
-- Mood check-ins
-- Spanish learning tools
-- Progress tracking
-
-## Next Version Roadmap
-- Better memory handling
-- Expanded Spanish lessons
-- Voice improvements
-- Deeper parent analytics
-
 ## Setup Instructions
-Setup steps will be added here.
+1. Clone the repository
+2. Open the project in Replit or your local editor
+3. Add your Firebase configuration
+4. Run the app
+5. Test journaling, Spanish practice, and dashboard views
 
 ## Notes
-ZuriCare is designed as a child-safe, parent-aware experience focused on growth, encouragement, and learning.Currently uses Firebase Firestore for cloud-synced journal storage. Authentication and account-based access are not yet implemented because the current version is designed for a private parent-child use case.
-
-## Update Log
-- 2026-03-25 — Repository created and README structured for portfolio presentation
+- ZuriCare is designed as a child-safe, parent-aware experience focused on growth, encouragement, and learning.
+- The current version uses Firebase Firestore for cloud-synced journal storage.
+- Authentication and account-based access are not yet implemented because this version is designed for a private parent-child use case.
+- The live prototype is currently deployed under the working title "Zuri Activity."
