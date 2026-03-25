@@ -37,13 +37,13 @@ Finished / Working prototype
 ### Parent Dashboard
 ![Parent Dashboard](70dab8f5-9105-4260-9e2a-c0d224f84d88.png)
 
-## Tech Stack
-- Frontend: 
-- Backend: 
-- Database: 
-- Auth: 
-- Hosting: 
-- APIs: 
+#### Tech Stack
+- Frontend: HTML, CSS, JavaScript
+- Backend: JavaScript app logic
+- Database: Firebase Firestore (cloud sync for journal entries)
+- Auth: None
+- Hosting: Replit
+- APIs: Browser speech features and app-integrated learning flows
 
 ## How It Works
 1. Child logs in and interacts with Zuri
@@ -71,7 +71,7 @@ I designed the product vision, feature structure, workflow, and user experience,
 Setup steps will be added here.
 
 ## Notes
-ZuriCare is designed as a child-safe, parent-aware experience focused on growth, encouragement, and learning.
+ZuriCare is designed as a child-safe, parent-aware experience focused on growth, encouragement, and learning.Currently uses Firebase Firestore for cloud-synced journal storage. Authentication and account-based access are not yet implemented because the current version is designed for a private parent-child use case.
 
 ## Update Log
 - 2026-03-25 — Repository created and README structured for portfolio presentation
