@@ -1,4 +1,12 @@
+ZuriCare is a child-focused AI companion for journaling, emotional reflection, and beginner Spanish practice, with parent visibility built in.
+
+**Current Status:** Working prototype
+
 ## Screenshots / Demo
+screenshots/chat-view.png
+screenshots/spanish-practice.png
+screenshots/journal-view.png
+screenshots/parent-dashboard.png
 
 ## Live Demo
 [Open ZuriCare Live](https://zuri-activity.replit.app)
@@ -37,6 +45,7 @@
 5. Test journaling, Spanish practice, and dashboard views
 
 ## Notes
+ZuriCare is currently deployed under the prototype name "Zuri Activity."
 - ZuriCare is designed as a child-safe, parent-aware experience focused on growth, encouragement, and learning.
 - The current version uses Firebase Firestore for cloud-synced journal storage.
 - Authentication and account-based access are not yet implemented because this version is designed for a private parent-child use case.
