@@ -22,7 +22,20 @@ Finished / Working prototype
 - Progress tracking
 
 ## Screenshots / Demo
-Screenshots and live demo link will be added here.
+## Live Demo
+[Open ZuriCare Live](https://zuri-activity.replit.app)
+
+### Chat View
+![Chat View](05fcecdc-338c-43a7-b099-035cd156bb8a.png)
+
+### Spanish Practice
+![Spanish Practice](6aceb4e3-1a43-4b33-af69-80e8cac98cca.png)
+
+### Journal View
+![Journal View](fd613417-5f0e-4b40-97ae-7ac2b767be9b.png)
+
+### Parent Dashboard
+![Parent Dashboard](70dab8f5-9105-4260-9e2a-c0d224f84d88.png)
 
 ## Tech Stack
 - Frontend: 
